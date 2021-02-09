@@ -57,6 +57,16 @@ knitr::opts_chunk$set(echo = TRUE)
 - They are not endangered, just very elusive
 - Closely related to raccoons
 
+#### Grogu
+
+![Photo](Grogu.jpg)
+
+##### Grogu Facts:
+
+- Known as "The Child"
+- Likes unfertilised frog eggs and control knobs
+- Strong with the force
+
 ###
 
 ----------
